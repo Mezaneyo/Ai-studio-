@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Gemini Nexus",
+  "description": "A high-performance AI workspace powered by the latest Gemini models, featuring specialized modes and a refined technical interface.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
